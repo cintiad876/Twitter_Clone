@@ -3,8 +3,6 @@ Let’s make simple Twitter. Users can post tweets and see everyone’s them. To
 
 [LIVE REPLIT DEPLOYMENT]()
 
-# Screenshot:
-
 # Technologies Used:
 * Html
 * Css
@@ -21,3 +19,7 @@ Let’s make simple Twitter. Users can post tweets and see everyone’s them. To
  
 # How to use?
 Refer the project files to build your own twitter clone.
+
+# Screenshot:
+
+![Screenshot 2022-11-14 204328](https://user-images.githubusercontent.com/112744119/201821571-9a475855-29f2-4717-a7cf-83d505e04f11.png)
